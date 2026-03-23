@@ -1,5 +1,7 @@
 # Another Dream ([jouer en ligne](https://sunny-foxes.itch.io/another-dream))
 
+*(Le lien écrit dans les informations du repo n'est plus à jour, c'est le lien ci-dessus qui le remplace)*
+
 Vous voici dans un monde onirique, où vous devrez vous créer un chemin pour parvenir à avancer, en poussant des caisses et en faisant fonctionner vos méninges. Attention, le monde onirique est instable, et la frontière avec le cauchemar est très fine. Saurez-vous en tirer partie pour progresser dans les niveaux ?
 
 ![Monde rêve](readme_pics/AD_dream2.PNG "Parfois il faut peu pour passer du rêve...") ![Monde cauchemar](readme_pics/AD_nightmare2.PNG "...au cauchemar")
